@@ -2,3 +2,5 @@
 *.pkl
 *.csv
 *.pth
+/data_link/servilla/SPOT2/data
+data.zip
